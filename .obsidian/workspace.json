@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d9ff1a19fec7e7fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a7fb93a78fa715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3912e27e43d2804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Simulacros_Parcial1/01_Simulacro_Parcial1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Simulacro_Parcial1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ffdf831225d575b",
+    "type": "split",
+    "children": [
+      {
+        "id": "030afc8d84a47485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c457bea8fee31146",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9fc1c7c7d27bd9e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b524b47f286e43e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e8e66502b4858f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f3bc4c827a29a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb66cf4c79e13d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temario Campus/tema_2_representaci_n_de_la_informaci_n.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "382247a9cf5f8703",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Temario Campus/tema_2_representaci_n_de_la_informaci_n.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "26cb1d14a006422d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "105242fc46fb9e82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9998799a7355366d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temario Campus/tema_2_representaci_n_de_la_informaci_n.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "d3912e27e43d2804",
+  "lastOpenFiles": [
+    "03_Simulacros_Parcial1/00_Chuleta_Supervivencia_Parcial1.md",
+    "02_Apuntes_Maestros/Tema_3/3.2_Modos_de_Direccionamiento.md",
+    "00_Fuentes_Bruto/Transparencias/tema_1_fundamentos_de_computadores.md",
+    "02_Apuntes_Maestros/Tema_2/2.2_Enteros_Posicionales_y_No_Posicionales.md",
+    "02_Apuntes_Maestros/Tema_2/2.1_Introduccion_y_Representacion_Alfanumerica.md",
+    "02_Apuntes_Maestros/Tema_3/3.4_Arquitectura_Harvard_y_Pipeline_PIC16F87XA.md",
+    "03_Simulacros_Parcial1/01_Simulacro_Parcial1.md",
+    "02_Apuntes_Maestros/Tema_4/4.5_Origenes_Multiples_Polling_Timer0_y_Controlador_Interrupciones.md",
+    "02_Apuntes_Maestros/Tema_4/4.4_Interrupciones_Hardware_Enmascaramiento_y_Vectores.md",
+    "02_Apuntes_Maestros/Tema_4/4.3_Metodos_ES_PIO_y_Consulta_de_Estado.md",
+    "02_Apuntes_Maestros/Tema_4/4.2_Direccionamiento_Interfase_Mapeada_vs_Diferenciada.md",
+    "02_Apuntes_Maestros/Tema_4/4.1_Estructura_ES_Interfase_y_Modelo_Programacion.md",
+    "02_Apuntes_Maestros/Tema_4/Tema_4_Indice.md",
+    "02_Apuntes_Maestros/Tema_4",
+    "02_Apuntes_Maestros/Tema_3/Tema_3_Indice.md",
+    "02_Apuntes_Maestros/Tema_3/3.1_Instrucciones_y_Formato_de_Instruccion.md",
+    "00_Fuentes_Bruto/Transparencias/tema_2.md",
+    "02_Apuntes_Maestros/Tema_3/3.3_Arquitectura_y_Ensamblador_MIPS.md",
+    "02_Apuntes_Maestros/Tema_3",
+    "02_Apuntes_Maestros/Tema_2/2.4_Codigos_Redundantes_Paridad_y_Hamming.md",
+    "02_Apuntes_Maestros/Tema_2/2.3_Reales_Punto_Fijo_y_Coma_Flotante_IEEE754.md",
+    "02_Apuntes_Maestros/Tema_2/Tema_2_Indice.md",
+    "02_Apuntes_Maestros/Tema_2",
+    "00_Fuentes_Bruto/Transparencias/tema_3_fundamentos_de_computadores.md",
+    "01_Mapa_y_Estrategia/01_Radar_de_Examen.md",
+    "00_Fuentes_Bruto/Clases/C. Transcripción 1.md",
+    "02_Apuntes_Maestros/Tema_1/1.4_Ejecucion_de_un_Programa_y_Casos_Practicos.md",
+    "02_Apuntes_Maestros/Tema_1/1.3_Programacion_y_Proceso_de_Traduccion.md",
+    "02_Apuntes_Maestros/Tema_1/1.2_Arquitectura_y_Ciclo_de_Instruccion.md",
+    "02_Apuntes_Maestros/Tema_1",
+    "03_Simulacros_Parcial1",
+    "Nueva carpeta",
+    "02_Apuntes_Maestros",
+    "01_Mapa_y_Estrategia",
+    "00_Fuentes_Bruto/Clases",
+    "00_Fuentes_Bruto/Transparencias"
+  ]
+}
